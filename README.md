@@ -1,2 +1,3 @@
-# APItoHivemq
-This script is for connecting API data to Hivemq
+# INGSOL
+These are the projects i had done at INGSOL
+
